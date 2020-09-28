@@ -6,7 +6,7 @@ int suma(int a, int b){
 }
 
 int resta(int a, int b){
-    return a-b;
+    return 0;
 }
 
 #endif
